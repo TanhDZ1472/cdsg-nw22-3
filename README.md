@@ -6,4 +6,5 @@
 - Đặng Đoàn Thái Bảo
 
 ## Giới thiệu về dự án:
-Dự án của chúng tôi là Đồ Án Quản Trị Hệ Thống
+dự án này cung cấp giải pháp tự động hóa các thao tác thường dùng trên hệ điều hành Ubuntu.
+
