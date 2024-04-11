@@ -8,5 +8,3 @@
 ## Giới thiệu về dự án:
 dự án này cung cấp giải pháp tự động hóa các thao tác thường dùng trên hệ điều hành Ubuntu.
 
-tui dô dối
-kệ mẹ m 
